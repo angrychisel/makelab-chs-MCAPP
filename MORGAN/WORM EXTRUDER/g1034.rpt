@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 68034
+Receiving System Product I.D.: 68034
+File Name                    : 68034.igs
+Sending System               : Pro/ENGINEER by Parametric Technology Corporation
+Preprocessor Version         : 2005030
+File Creation Date           : 130726.185358
+Model Creation Date          : 130726.185358
+Units                        : INCH
+Model Space Scale            : 1
+Author                       : carefree
+Organization                 : Unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              13
+  Highest number of significant digits:                     13
+  Average number of significant digits:                11.7769
+  Maximum distance to origin:                          8.00169
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   13
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            156       156
+102  Composite curve                                470       470
+110  Line                                          1059      1059
+120  Surface of revolution                          102       102
+124  Transformation matrix                          156       156
+126  Rational B-spline curve                       1452      1452
+128  Rational B-spline surface                      130       130
+142  Curve on a parametric surface                  235       235
+144  Trimmed parametric surface                     232       232
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Friday, July 26, 2013 21:57:27
+Finish time: Friday, July 26, 2013 21:57:31
+Processing time: 0 days, 00 hours, 00 mins, 04 secs
