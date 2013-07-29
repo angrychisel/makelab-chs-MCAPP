@@ -1,4 +1,4 @@
-The Makelab Charleston Affordable 3d Printer Project
+MCAPP - The Makelab Charleston Affordable 3d Printer Project
 ----------------------
 
 **Join our IRC Channel**
