@@ -1,6 +1,7 @@
+[![Visit our IRC channel](https://dl.dropboxusercontent.com/u/23537674/logo-400.png)](http://makelabcharleston.org/)
+
 MCAPP - The Makelab Charleston Affordable 3d Printer Project
 ----------------------
-[![Visit our IRC channel](https://dl.dropboxusercontent.com/u/23537674/logo-400.png)](http://makelabcharleston.org/)
 
 **Join our IRC Channel**
 
