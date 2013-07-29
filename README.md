@@ -1,5 +1,4 @@
-   The Makelab Charleston 
-Affordable 3d Printer Project
+The Makelab Charleston Affordable 3d Printer Project
 ----------------------
 
 **Join our IRC Channel**
