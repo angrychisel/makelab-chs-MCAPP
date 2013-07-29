@@ -4,7 +4,4 @@ makelab-chs-morgan
 
 The Makelab Charleston Affordable 3d Printer Project - MCAPP
 
-**IRC CHATROOM**
-irc.freenode.net #makelabcharleston
-
-http://webchat.freenode.net/?channels=makelabcharleston
+[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/makelabcharleston.png)](https://kiwiirc.com/client/irc.freenode.net/?nick=morgan|?#makelabcharleston)
