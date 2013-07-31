@@ -3,7 +3,7 @@
 MCAPP - The Makelab Charleston Affordable 3d Printer Project
 ----------------------
 
-[![Github Page](http://angrychisel.github.io/makelab-chs-MCAPP/)]
+[[Github Page](http://angrychisel.github.io/makelab-chs-MCAPP/)]
 
 **Join our IRC Channel**
 
