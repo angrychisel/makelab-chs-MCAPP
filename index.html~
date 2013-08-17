@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Makelab-chs-mcapp by angrychisel</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="stylesheets/bootstrap.css">
+	<link rel="stylesheet" href="stylesheets/font-awesome.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-31272732-2', 'angrychisel.github.io');
+  ga('send', 'pageview');
+
+</script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">MCAPP</h1>
+        <p class="header">The Makelab Charleston Affordable 3d Printer Project - MCAPP</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="https://github.com/angrychisel/makelab-chs-MCAPP/zipball/master">Download ZIP</a></li>
+          <li class="download"><a class="buttons" href="https://github.com/angrychisel/makelab-chs-MCAPP/tarball/master">Download TAR</a></li>
+          <li><a class="buttons github" href="https://github.com/angrychisel/makelab-chs-MCAPP">View On GitHub</a></li>
+        </ul>
+
+        <p class="header">This project is maintained by <a class="header name" href="https://github.com/angrychisel">angrychisel</a> and <a href="https://github.com/jamesarm97" class="user-mention">@jamesarm97</a> </p>
+
+
+      </header>
+      <section>
+        <h3>
+<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>MCAPP-<a href="http://makelabcharleston.org" target="_blank">Makelab Charleston</a> Affordable Printer Project</h3>
+
+<p>All credit for this design goes to <a href="http://reprap.harleystudio.co.za" target="_blank" name="Link to reprap mogan site">Quentin Harley</a>. Our project goal is to create a reliable sub $400 3d printer.  With an end goal of sub $200. </p>
+
+<a href="images/2013-08-16%2019.39.05.jpg"><img src="images/2013-08-16%2019.39.05_thumbnail.jpeg" width="100" height="75" border="0"></a><a href="images/2013-08-16%2019.39.08.jpg"><img src="images/2013-08-16%2019.39.08_thumbnail.jpeg" width="100" height="75" border="0"></a><a href="images/2013-08-16%2021.45.37.jpg"><img src="images/2013-08-16%2021.45.37_thumbnail.jpeg" width="100" height="133" border="0"></a><a href="images/2013-08-16%2021.45.44.jpg"><img src="images/2013-08-16%2021.45.44_thumbnail.jpeg" width="100" height="75" border="0"></a><a href="images/2013-08-16%2021.45.52.jpg"><img src="images/2013-08-16%2021.45.52_thumbnail.jpeg" width="100" height="75" border="0"></a><a href="images/2013-08-16%2021.45.59.jpg"><img src="images/2013-08-16%2021.45.59_thumbnail.jpeg" width="100" height="75" border="0"></a><a href="images/2013-08-16%2021.46.08.jpg"><img src="images/2013-08-16%2021.46.08_thumbnail.jpeg" width="100" height="75" border="0"></a><a href="images/2013-08-16%2021.52.47.jpg"><img src="images/2013-08-16%2021.52.47_thumbnail.jpeg" width="100" height="133" border="0"></a><a href="images/2013-08-16%2021.52.56.jpg"><img src="images/2013-08-16%2021.52.56_thumbnail.jpeg" width="100" height="75" border="0"></a><a href="images/2013-08-16%2021.52.58.jpg"><img src="images/2013-08-16%2021.52.58_thumbnail.jpeg" width="100" height="75" border="0"></a><a href="images/2013-08-16%2021.52.59.jpg"><img src="images/2013-08-16%2021.52.59_thumbnail.jpeg" width="100" height="75" border="0"></a>
+
+<iframe width='700' height='500' src='http://3dfile.io/VHV2vC?embed=true' frameborder='0'></iframe>
+
+<iframe width='700' height='500' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0Anz7YIplmC8CdFhlWHZyZi05MDdaUXRUNC12N3QyeUE&output=html&widget=true'></iframe>
+
+<iframe width="700" height="500" src="//www.youtube.com/embed/vKEHL8pidwA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<pre><code>
+Our website is still under construction obviously.
+Much like our printer design.
+
+</code></pre>
+
+
+<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+
+<h3>
+<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+
+<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+
+<h3>
+<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
+
+<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+
+<h3>
+<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+
+<p><a href="https://github.com/qharley" class="user-mention">@qharley</a> <a href="https://github.com/jamesarm97" class="user-mention">@jamesarm97</a> <a href="https://github.com/angrychisel" class="user-mention">@angrychisel</a></p>
+
+<h3>
+<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
+
+<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+      </section>
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>
